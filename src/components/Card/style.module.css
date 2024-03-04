@@ -1,0 +1,45 @@
+.card{
+    width: 15%;
+    min-width: 200px;
+    height: auto;
+    margin: 30px 10px;
+    cursor: pointer;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 30%);
+    display: inline-block;
+}
+.image{
+    width: 100%;
+    height: auto;
+}
+.allCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cardinfo{
+    padding-left: 10px;
+    margin: 10px auto;
+}
+.name{
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    color: rgb(27, 25, 25);
+}
+.company{
+    margin-top: 10px;
+    text-align: left;
+    font-size: 12px;
+    color: rgb(110, 110, 110);
+}
+.price{
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #009688;
+}

@@ -1,0 +1,18 @@
+.divTable{
+    margin-bottom: 20px;
+}
+
+th{
+    text-align: left;
+}
+input{
+    padding: 5px;
+    height: 30px;
+    margin: 5px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-color: gray;
+}
+button{
+    margin-right: 20px;
+}
